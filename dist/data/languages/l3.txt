@@ -6,12 +6,12 @@ Neutrino
 Neutrinos passes through ordinary matter like you and me all the time!  In fact, they're doing it right now!  Neutrinos have no charge, so they are only affected by gravity and the weak force.  However, they are so small that they are barely affected.
 High-Energy Neutrino
 Neutrinos of higher energy are larger.  For more about neutrinos, go to neutrino, which shows the average size.  It's a whopping 15,000 times smaller!
-Matchstick
-The matchstick is a very useful little tool.  When struck against something, it can light on fire.  This makes it very dangerous!  That's why it's good to never play with matches.  Got that?
+Match
+Match is the typical spoiled brat, like, for sure! She's a wooden matchstick who never burns out when she's on fire. Match is caring when it comes to her friends, but she might also seem a bit selfish and lazy because of her constant "Break Times". She also complains a lot. Match's best friend is Pencil, and the two become devastated when either one is eliminated. Match doesn't really like Spongy, and has developed the hand-clapping game Spongy-cake to mock him.
 Chicken Egg
 The chicken egg is where baby chicks usually hatch.  Many humans love to eat chicken eggs.  Besides appearance, there is no difference between white chicken eggs and brown chicken eggs.
 Quail Egg
-Many people think that quail eggs are better than chicken eggs.  The quail egg is smaller and more rare than the chicken egg, but that doesn't stop some people from loving them!
+Is Eggy hard-boiled or soft-boiled? No one knows. Obviously she is not scrambled or poached. She does crack easily, though, a fact that Book is all too eager to state. Despite this, Eggy is very confident, which also leads her to pick out flaws in others. According to Eggy, in the past she never spoke and was much more content. Also, apparently she used to be in an egg. An egg inside of an egg if you will.
 Square Inch
 If you aren't accustomed to the metric system, here's a square inch.  Unfortunately for you, almost everything else is in the metric system.  Also, 2.5 centimetres is the length of one side, not the area.  (That would be in cm^2.)
 Coffee Bean
@@ -27,7 +27,7 @@ The Earth is our only home.  While living on it, we may consider it huge, but it
 Deneb
 Deneb is the brightest star in the constellation of Cygnus. Deneb is 1,500 light-years away, which makes it the most distant of the 25 brightest stars.  If you lived on Mars, Deneb would appear above the North Pole - not Polaris.
 V V Cephei A
-For a while V V Cephei A was the largest known star.  Now that title belongs to VY Canis Majoris.  That's because new stars are being discovered all the time!
+For a while V V Cephei A was the largest known star.  Now that title belongs to Stephenson 2-18.  That's because new stars are being discovered all the time!
 R Doradus
 R Doradus is relatively large and is only 200 light-years from Earth, so its apparent size is the second largest in the sky!  It is 0.05 arcseconds across.  The Sun is the largest, at 1,920 arcseconds - 40,000 times larger.
 Aldebaran
@@ -61,7 +61,7 @@ Gacrux
 Uranus
 'A lot of people like to think "Uranus" sounds like "your anus".  There are many other, and better, pronunciations.  Uranus can also be pronouced like "Yer-uh-niss" or "Seh-venth-pla-net".',
 Neptune
-Currently, Neptune is the farthest planet in the Solar System from the Sun.  It takes 164.8 Earth years for it to orbit the Sun.  You'll never see Neptune complete a single orbit in your whole life, unless life expectancies increase.
+Currently, Neptune is the farthest planet in the Solar System from the Sun.  It takes 164.8 Earth years for it to orbit the Sun.  You'll never see Neptune complete a single orbit in your whole life, unless life expectancies increase, or you get eliminated.
 Wolf 359
 Wolf 359 is a small red dwarf, dwarfed by normal stars.  It is the sixth closest star to Earth, after the Sun, Proxima Centauri, Alpha Centauri A & B and Barnard's star.  Still, its magnitude is a dim +13.5.
 Gliese 229A
@@ -72,8 +72,8 @@ Jupiter
 Jupiter is the largest planet in the solar system.  However, it is not the largest known planet.  That's TrES-4.  Jupiter is a gas giant, so it's just a ball of gas.  You can't land anywhere on it.  Also, Jupiter has 64 moons, including the four Gallilean moons.
 Saturn
 Saturn has the widest, most visible rings of the Solar System.  Galileo, who was the first person to see these rings, first thought they were "ears".  Can you imagine a Saturn without rings?  It would be just a yellow ball.
-TrES-4
-TrES-4 is the largest planet discovered.  No telescope can actually see TrES-4, but there are ways to prove its existence indirectly.  TrES-4's gravity causes the star it orbits to wobble slightly.  Also, whenever TrES-4 goes in front of the star, the shine of the star dims a little.
+TrES-4b
+TrES-4b is one of the largest planets discovered.  No telescope can actually see TrES-4b, but there are ways to prove its existence indirectly.  TrES-4b's gravity causes the star it orbits to wobble slightly.  Also, whenever TrES-4b goes in front of the star, the shine of the star dims a little.
 Venus
 There was a time when Venus and Earth were thought to be sister planets.  That isn't true at all!  Venus's surface temperature is always above 450° C, because its atmosphere, which is mostly carbon dioxide, traps the Sun's heat!
 Mars
@@ -83,7 +83,7 @@ Mercury is the closest planet to the Sun.  It has no atmosphere.  During the day
 Ganymede
 Ganymede is the largest moon in the Solar System.  It orbits Jupiter and was discovered by Galileo, which makes it a Galilean moon.  Also, Ganymede is not to be confused with Ganymed, which is an asteroid whose name doesn't have the final "e"!
 Callisto
-Callisto is the most distant of the Gallilean moons.  It orbits outside all the other Gallilean moons and gets hit with the most meteors.  All these impacts create many, many craters.
+Callisto is the most distant of the Gallilean moons.  It orbits outside all the other Gallilean moons and gets hit with the most meteors.  All these impacts create many, many craters. Also, if you're Coiny, watch out for falling Callistos.
 Io
 Io has a lot of volcanoes - the most in the Solar System!  Io's geysers emit frozen sulfur dioxide up to 500 kilometers into space!  The landscape of Io is constantly changing.  In one year, it will look very different!
 Europa
@@ -129,9 +129,9 @@ KY Cygni is 300,000 times more luminous than the Sun, and the Sun is pretty lumi
 V354 Cephei
 V354 Cephei is red supergiant, and it's huge.  If placed in the Solar System, it would extend past the orbit of Jupiter.  354, in addition to being in this star's name, is also the year Augustine of Hippo was born.
 WOH G64
-I know... you're thinking, "WOH... that's a big star!"  Well, I guess you're right, because currently it's the second largest known star.  WOH G64 is found in the Large Magellanic Cloud.  There is a cloud surrounding the star that extends half of a light-year.
+I know... you're thinking, "WOH... that's a big star!"  Well, I guess you're right, because it WAS the largest known star, but it lost its title to Stephenson 2-18.  WOH G64 is found in the Large Magellanic Cloud.  There is a cloud surrounding the star that extends half of a light-year.
 VY Canis Majoris
-VY Canis Majoris is the largest known star.  It is so large that if it were placed in the Solar System, it would extend beyond the orbit of Saturn!  It would take a plane 1,200 years to circle it once.
+VY Canis Majoris is the largest known star in our galaxy.  It is so large that if it were placed in the Solar System, it would extend beyond the orbit of Saturn!  It would take a plane 1,200 years to circle it once.
 Betelgeuse
 Betelgeuse's age is in the millions of years.  Betelgeuse is so old, it is expected to explode in the next ten thousand years.  Smaller stars live for trillions of years.  Betelgeuse is so big it aged fast.
 Albireo
@@ -243,7 +243,7 @@ The apparent size of the North America Nebula is very large.  It appears almost 
 The Spire
 This little thingy is a part of the much larger Eagle Nebula.  Even though it appears small in comparison to the Eagle Nebula, it's still larger than the solar system, by 10 - 20,000 times, depending on your definition of our Solar System.
 Horsehead Nebula
-The Horsehead Nebula is one of the most famouse nebulae because it looks like a horse's head.  It's a dark nebula in front of glowing pink gas.  It was first discovered in 1888.  Do you like all those 8's?  I do.
+The Horsehead Nebula is one of the most famous nebulae because it looks like a horse's head.  It's a dark nebula in front of glowing pink gas.  It was first discovered in 1888.  Do you like all those 8's?  I do. If you read this, subscribe to TomSka.
 Rosette Nebula
 The Rosette Nebula is very large, but very faint. It looks like a fiery rose and a rosy fire. It's approximately 5,000 light-years away from us and has a mass of 10,000 Suns. (3 billion Earths)
 Great Nebula in Carina
@@ -267,7 +267,7 @@ The Universe is everything we know.  Oh, also, the universe may be much larger t
 Observable Universe
 The radius, which is half of the diameter, is about 46 billion light-years.  You might expect to only see 13.7 billion light-years away because light has had only 13.7 billion years to travel, but due to the expansion of space, the objects that used to be 13.7 billion light-years away are now 46 billion light-years away, and we can see these.
 Sloan Great Wall
-The Sloan Great Wall is represented by the thick green band.  It is the largest known object in the universe.  It is made up of galaxies, and is called a galactic filament.  We are not in it.  In fact, it lies about one billion light-years from us.
+The Sloan Great Wall is represented by the thick green band.  It is one of the largest known objects in the universe.  It is made up of galaxies, and is called a galactic filament.  We are not in it.  In fact, it lies about one billion light-years from us.
 Eridanus Supervoid
 It's a region in the night sky that's slightly cooler than the normal CMB temperature.  It's 2.7° K, or -270.5° C.  Barely above absolute zero.  One theory says it leads to a parallel universe.  Whoa!
 Sagittarius Dwarf Galaxy
@@ -287,7 +287,7 @@ This galaxy is not shaped like a triangle; it's just called that because it is f
 Sombrero Galaxy
 Do you think the Sombrero Galaxy looks like a sombrero?  I'm not sure.  Oh!  Did you know that there is a supermassive  black hole in the center of this galaxy?  Most large galaxies have supermassive black holes.  Our Milky Way might!
 Pisces-Cetus Supercluster Complex
-We actually live in the Pisces-Cetus Supercluster Complex.  It is the second largest object known, after the Sloan Great Wall.  I guess second place is pretty good.
+We actually live in the Pisces-Cetus Supercluster Complex.  It is the fifth largest object known, after the Hercules-Corona Borealis Great Wall, the Giant GRB ring, the Huge LQG and the Sloan Great Wall.  I guess fifth place is pretty good.
 Virgo Supercluster
 The Virgo Supercluster, one of millions of superclusters, contains over 100 galaxy clusters.  These include our cluster, as well as the largest one, the Virgo Cluster (which is not super).
 Local Group
@@ -296,8 +296,8 @@ Virgo Cluster
 The Virgo Cluster is the largest cluster in the Virgo Supercluster, and is at its center.  It was discovered in the late 1770s when its galaxies were catalogued as Messier objects.
 Fornax Cluster
 We live in the Virgo Supercluster.  We're actually part of a small filament extending off of the Fornax Cluster.  It's the second largest cluster within 100 million light-years!
-IC 1101
-IC 1101 is the largest known galaxy.  It contains about 100 trillion stars.  Our galaxy, the Milky Way, has only 250 billion, so IC 1101 has 400 times more stars than the Milky Way.
+Alcyoneus
+Alcyoneus is the largest known galaxy.  It contains about 100 trillion stars.  Our galaxy, the Milky Way, has only 250 billion, so Alcyoneus has 400 times more stars than the Milky Way.
 Abell 2029
 Abell 2029 is a galaxy cluster one billion light-years away in the constellation Serpens.  Its central galaxy, which is IC 1101, is almost as large as it is.  It emits 2 trillion times as much light as the Sun does. (About 10^39 lightbulbs)
 Whirlpool Galaxy
@@ -309,13 +309,13 @@ When this galaxy was first discovered, it was believed to be a nebula.  It's not
 Cartwheel Galaxy
 Astronomers think the Cartwheel Galaxy had a collision with two nearby galaxies 200 million years ago.  Actually, 700 million years ago, because the Cartwheel Galaxy is 500 million light-years away, so what we see of it is already 500 million years old.
 NGC 1232
-NGC 1232 is a pretty big galaxy.  It's bigger than ours, but it's not the biggest.  Of course, IC 1101 is not the biggest galaxy, it's only the biggest galaxy we know of.  There are probably many more!
+NGC 1232 is a pretty big galaxy.  It's bigger than ours, but it's not the biggest.  Of course, Alcyoneus is not the biggest galaxy, it's only the biggest galaxy we know of.  There are probably many more!
 Omega Centauri
 Omega Centauri is a globular cluster.  It is the brightest globular cluster.  The center is very crowded. Stars there are 0.1 light-years apart, which is 2% of the distance from our Sun to the nearest star.  (That is really close!)
 Messier 54
 Messier 54, or M54, or NGC 6715, is another globular cluster.  It is in the Sagittarius Dwarf Galaxy, which would mean it's the first globular cluster outside of the Milky Way to be discovered.
-Virgo A
-Virgo A is the largest galaxy in the Virgo Cluster.  It's a supergiant elliptical galaxy.  Did you know that the black hole at its center is flinging out a jet of subatomic matter 5,000 light-years long?
+Messier 87
+Messier 87 is the largest galaxy in the Virgo Cluster.  It's a supergiant elliptical galaxy.  Did you know that the black hole at its center is flinging out a jet of subatomic matter 5,000 light-years long?
 NGC 4889
 This very large galaxy, which is also known as Caldwell 35, is the brightest galaxy in the Coma cluster.  It is going away from us at 6,500 kilometres per second.  At that speed, it could circumnavigate the Earth in less than seven seconds!
 Leo II Dwarf Galaxy
@@ -363,7 +363,7 @@ Neutrons are found within an atom's nucleus.  They are thousands of times smalle
 Angstrom
 An angstrom, which is named after Swedish physicist Anders Jonas Ångström, is one tenth of a nanometer. The symbol for an angstrom is Å. The angstrom is used to express the size of atoms.
 Cesium Atom
-Atom size is measured by the distance of the nuclei in covalent bonds.  The shells don't look actually like this.  Cesium is the largest atom, but its atomic number is not the highest.  Why? See Helium Atom.
+Atom size is measured by the distance of the nuclei in covalent bonds.  The shells don't look actually like this.  Cesium is the largest atom, but its atomic number is not the highest.  Why? See Helium Atom. (Francium has not been measured.)
 Quantum Foam
 According to the spacetime theory, quantum foam, which is also known as spacetime foam, is the foundation of the fabric of the universe.  It is impossible to directly observe or measure this because it is so small.
 Planck Length
@@ -398,8 +398,8 @@ Titanic
 The Titanic sank when it hit an iceberg. Although it was capable of holding enough lifeboats for 4,000 people, they decided they only needed enough lifeboats for 1,178 people.  There were 2,228 people on the Titanic.
 Vatican City
 Vatican City is the smallest country.  It, although very small, is larger than you are. If you were to stretch your flesh over Vatican City so that it was spread evenly, the coating would be about 200 nanometers thick, which is less than even a single skin cell!
-Oak Tree
-The oak tree is a tree.  They can live a very long time, longer than even a human can!  Oak trees produce thousands of acorns a year.  Acorns are good.  Almost as good as ice cubes.
+Tree
+Woody and Pencil are parts of trees, but Tree is the real thing. He is a tree with leaves, although he seems to be evergreen. It doesn't matter. Tree is not anchored by any roots, but he thinks of himself as a with-it-down-to-earth type of guy; only Loser's charming charisma can sweep him off his feet. When he sees a problem, Tree knows what not to do, although he hasn't a clue on what he should do. When Tree is fed up, he'll walk away and tell people he's "leafing".
 Gamma Ray Wavelength
 Gamma rays have a very high frequency.  They can come from radioactive decay.  Oh, and by the way, it's not actually light blue as it appears to the left.
 X-Ray Wavelength
