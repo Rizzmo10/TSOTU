@@ -523,11 +523,11 @@
   "descriptionY": -314.25
 }, {
   "objectID": 44,
-  "boundX": -560.65,
+  "boundX": 560.65,
   "boundY": -740.15,
   "boundW": 324.15,
   "boundH": 381.6,
-  "titleX": 202.1,
+  "titleX": 502.1,
   "titleY": -593.2,
   "titleScale": 1,
   "titleWrap": true,
