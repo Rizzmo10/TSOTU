@@ -14,7 +14,7 @@ export class ScaleText {
             align: "center",
         });
         this.textGround = new PIXI.Text(text, {
-            fontFamily: "Owald",
+            fontFamily: "Oswald",
             fontSize: 14,
             fill: this.textColor,
             stroke: this.textColor,
