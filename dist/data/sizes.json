@@ -258,8 +258,8 @@
   "realRatio": 1
 }, {
   "objectID": 44,
-  "exponent": 11,
-  "coeff": 9.8,
+  "exponent": 12,
+  "coeff": 2,
   "cullFac": 0.86,
   "realRatio": 1
 }, {
