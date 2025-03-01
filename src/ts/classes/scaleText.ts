@@ -11,7 +11,7 @@ export class ScaleText {
   public container:Container;
 
   private textColor = 0x000000;
-  private textColorSpace = 0xFFFFFF;
+  private textColorSpace = 0x000022;
 
   constructor(x:number, y: number, text: string) {
 
