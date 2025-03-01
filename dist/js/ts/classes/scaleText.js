@@ -7,28 +7,28 @@ export class ScaleText {
         this.textColor = 0x000000;
         this.textColorSpace = 0x000055;
         this.baseTextGround = new PIXI.Text('10', {
-            fontFamily: "Shag",
+            fontFamily: "Oswald",
             fontSize: 32,
             fill: this.textColor,
             stroke: this.textColor,
             align: "center",
         });
         this.textGround = new PIXI.Text(text, {
-            fontFamily: "Shag",
+            fontFamily: "Owald",
             fontSize: 14,
             fill: this.textColor,
             stroke: this.textColor,
             align: "left",
         });
         this.baseTextSpace = new PIXI.Text('10', {
-            fontFamily: "Shag",
+            fontFamily: "Oswald",
             fontSize: 32,
             fill: this.textColorSpace,
             stroke: this.textColorSpace,
             align: "center",
         });
         this.textSpace = new PIXI.Text(text, {
-            fontFamily: "Shag",
+            fontFamily: "Oswald",
             fontSize: 14,
             fill: this.textColorSpace,
             stroke: this.textColorSpace,
