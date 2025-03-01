@@ -16,7 +16,7 @@ export class ScaleText {
   constructor(x:number, y: number, text: string) {
 
     this.baseTextGround = new Text('10', {
-      fontFamily: "Roboto",
+      fontFamily: "Shag",
       fontSize: 32,
       fill: this.textColor,
       stroke: this.textColor,
@@ -25,7 +25,7 @@ export class ScaleText {
 
 
      this.textGround = new Text(text, {
-      fontFamily: "Roboto",
+      fontFamily: "Shag",
       fontSize: 14,
       fill: this.textColor,
       stroke: this.textColor,
@@ -33,7 +33,7 @@ export class ScaleText {
     });
 
     this.baseTextSpace = new Text('10', {
-      fontFamily: "Roboto",
+      fontFamily: "Shag",
       fontSize: 32,
       fill: this.textColorSpace,
       stroke: this.textColorSpace,
@@ -41,7 +41,7 @@ export class ScaleText {
     });
 
      this.textSpace = new Text(text, {
-      fontFamily: "Roboto",
+      fontFamily: "Shag",
       fontSize: 14,
       fill: this.textColorSpace,
       stroke: this.textColorSpace,
