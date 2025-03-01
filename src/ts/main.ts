@@ -102,14 +102,9 @@ console.log(`
   Created by Cary Huang
   Implemented by Matthew Martori @matttt on github
   
-  Made with ♥️
+  Peace, love and BFDI all the way!
 `)
 
-if(isMobile(window.navigator).phone) {
-  alert('This version of Scale of the Universe 2 is not designed for phones. Please find the app on the iOS app store.')
-  document.write('Download the Scale of the Universe iOS app!')
-  document.getElementById('modal').style.opacity = '0';
-};
 
 const modal: any = document.getElementById("modal");
 
