@@ -361,8 +361,8 @@ loader.load(async (loader, resources) => {
     translationCredit.innerHTML = translationCreditText;
 
     // document.getElementById('startBtn').innerHTML = textData[619]
-    document.getElementById('moveSliderText').innerHTML = textData[620]
-    document.getElementById('clickObjectText').innerHTML = textData[621]
+    document.getElementById('moveSliderText').innerHTML = textData[622]
+    document.getElementById('clickObjectText').innerHTML = textData[623]
     // document.getElementById('startTitle').innerHtml = textData[619]
 
     await universe.createItems(resources, textData);
