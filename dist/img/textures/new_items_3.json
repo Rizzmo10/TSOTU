@@ -551,6 +551,14 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":959,"y":176,"w":231,"h":164},
 	"sourceSize": {"w":2160,"h":1215}
+},
+"328":
+{
+	"frame": {"x":1461,"y":1697,"w":233,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1439,"y":467,"w":233,"h":233},
+	"sourceSize": {"w":2160,"h":1215}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
