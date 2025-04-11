@@ -1960,4 +1960,10 @@
   "coeff": 2.6,
   "cullFac": 1,
   "realRatio": 1
+}, {
+  "objectID": 328,
+  "exponent": -10,
+  "coeff" 2,
+  "cullFac": 1,
+  "realRatio": 1
 }]
