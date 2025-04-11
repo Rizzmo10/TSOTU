@@ -269,8 +269,8 @@ loader.load((loader, resources) => __awaiter(void 0, void 0, void 0, function* (
         startButton.innerHTML = startButtonText;
         translationCredit.innerHTML = translationCreditText;
         // document.getElementById('startBtn').innerHTML = textData[619]
-        document.getElementById('moveSliderText').innerHTML = textData[620];
-        document.getElementById('clickObjectText').innerHTML = textData[621];
+        document.getElementById('moveSliderText').innerHTML = textData[622];
+        document.getElementById('clickObjectText').innerHTML = textData[623];
         // document.getElementById('startTitle').innerHtml = textData[619]
         yield universe.createItems(resources, textData);
         slider.setPercent(map(0, -35, 27, 0, 1));
